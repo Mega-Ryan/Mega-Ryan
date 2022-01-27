@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mega-Ryan
-- 👀 I’m interested in gaming, coding and gaming while coding
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @Mega-Ryan.
+- 👀 I’m interested in gaming, coding and gaming while coding.
+- 🌱 I’m currently learning basically nothing.
 
 <!---
 Mega-Ryan/Mega-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
